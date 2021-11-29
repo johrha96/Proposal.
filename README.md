@@ -2,11 +2,11 @@
 The goal of this project is to use classification models to predict students' performance levels to achieve the best results and reduce the failure rate, educational methods require innovative techniques to develop education quality by using machine learning algorithms. 
 Design:
 This project is one of the T5 Data Science BootCamp requirements. Data obtained from Kaggle website. 
-[a link](https://archive.ics.uci.edu/ml/datasets/student+performance)
+[Link](https://archive.ics.uci.edu/ml/datasets/student+performance)
 
 # Data:
 This data approach student achievement in secondary education of two Portuguese schools.The data attributes include student grades, demographic, social and school related features and it was collected by using school reports and questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and Portuguese language (por). 
-[a link](https://archive.ics.uci.edu/ml/datasets/student+performance)
+[Link](https://archive.ics.uci.edu/ml/datasets/student+performance)
 # Objectives :
 •	Predict if students will pass the exams by their data 
 •	Compare  between the selected learning algorithms
